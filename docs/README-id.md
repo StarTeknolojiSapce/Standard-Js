@@ -198,7 +198,7 @@ ESLint"](https://www.youtube.com/watch?v=kuHfMw8j4xk). Didalam obrolan ini, kamu
 Selain perusahaan, beberapa anggota komunitas menggunakan `standard` didalam packages yang [terlalu banyak](https://raw.githubusercontent.com/standard/standard-packages/master/all.json)
 untuk ditampilkan disini.
 
-`standard` juga merupakan linter dengan peringkat teratas didalam showcase Github [Clean Code Linter](https://github.com/showcases/clean-code-linters).
+`standard` juga merupakan linter dengan peringkat teratas didalam showcase [Clean Code Linter](https://github.com/showcases/clean-code-linters).
 
 ## Apakah terdapat plugin untuk text editor?
 

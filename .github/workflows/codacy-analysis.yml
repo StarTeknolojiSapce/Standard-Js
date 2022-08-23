@@ -1,6 +1,6 @@
 # This workflow checks out code, performs a Codacy security scan
 # and integrates the results with the
-# GitHub Advanced Security code scanning feature.  For more information on
+# Advanced Security code scanning feature.  For more information on
 # the Codacy security scan action usage and parameters, see
 # https://github.com/codacy/codacy-analysis-cli-action.
 # For more information on Codacy Analysis CLI in general, see
@@ -22,7 +22,7 @@ jobs:
     name: Codacy Security Scan
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository to the GitHub Actions runner
+      # Checkout the repository to the Actions runner
       - name: Checkout code
         uses: actions/checkout@v3
 
@@ -39,7 +39,7 @@ jobs:
           # Adjust severity of non-security issues
           gh-code-scanning-compat: true
           # Force 0 exit code to allow SARIF file generation
-          # This will handover control about PR rejection to the GitHub side
+          # This will handover control about PR rejection to the side
           max-allowed-issues: 2147483647
 
       # Upload the SARIF file generated in the previous step

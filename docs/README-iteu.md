@@ -232,7 +232,7 @@ Un sacco di gente!
 
 Oltre alle aziende, anche molti membri della comunità usano `standard` su pacchetti che sono [troppo numerosi](https://raw.githubusercontent.com/standard/standard-packages/master/all.json) da mostrare qui.
 
-`standard` è inoltre il miglior linter favorito dal caso d'uso dalla GitHub [Clean Code Linter](https://github.com/showcases/clean-code-linters).
+`standard` è inoltre il miglior linter favorito dal caso d'uso dalla [Clean Code Linter](https://github.com/showcases/clean-code-linters).
 
 ## Ci sono dei plugin per gli editor di testo?
 

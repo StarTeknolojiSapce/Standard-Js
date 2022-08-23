@@ -220,7 +220,7 @@ $ standard "src/util/**/*.js" "test/**/*.js"
 
 除公司组织外，[很多个人](https://raw.githubusercontent.com/standard/standard-packages/master/all.json)也在项目中使用，这里就不一一罗列了。
 
-并且 `standard` 在 GitHub 的[代码检查类工具](https://github.com/showcases/clean-code-linters) 展示列表中也排名第一。
+并且 `standard` 在 的[代码检查类工具](https://github.com/showcases/clean-code-linters) 展示列表中也排名第一。
 
 ## 有现成的编辑器插件吗？
 

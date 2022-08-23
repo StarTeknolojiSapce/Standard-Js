@@ -159,7 +159,7 @@ When you upgrade, consider running `standard --fix` to automatically format your
 code to match the newly added rules.
 
 ❤️ If you enjoy StandardJS and want to support future releases, check out
-Feross's [GitHub Sponsors page](https://github.com/users/feross/sponsorship).
+Feross's [Sponsors page](https://github.com/users/feross/sponsorship).
 
 ### New features
 
@@ -257,8 +257,8 @@ We now have a [Discord server](https://discord.gg/ZegqCBr). Come chat with the
 maintainers, ask questions, and get help from the community!
 
 ❤️ If you enjoy StandardJS and want to support future releases, check out
-Feross's [GitHub Sponsors page](https://github.com/users/feross/sponsorship).
-GitHub is matching donations, so your dollars go twice as far! 🚀
+Feross's [Sponsors page](https://github.com/users/feross/sponsorship).
+is matching donations, so your dollars go twice as far! 🚀
 
 ### New features
 
@@ -333,7 +333,7 @@ that we also publish (for advanced users).
 
 When you upgrade, consider running `standard --fix` to automatically format your code to match the newly added rules.
 
-❤️ If you enjoy StandardJS and want to support future releases, check out Feross's [GitHub Sponsors page](https://github.com/users/feross/sponsorship). GitHub is matching donations, so your dollars go twice as far! 🚀
+❤️ If you enjoy StandardJS and want to support future releases, check out Feross's [Sponsors page](https://github.com/users/feross/sponsorship). is matching donations, so your dollars go twice as far! 🚀
 
 ### New features
 

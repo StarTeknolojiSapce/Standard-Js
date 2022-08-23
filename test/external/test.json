@@ -882,7 +882,7 @@
   {
     "name": "geohub",
     "repo": "https://github.com/koopjs/geohub",
-    "description": "GeoJSON extractor for Github repos and gists.",
+    "description": "GeoJSON extractor for repos and gists.",
     "dependents": 3
   },
   {
@@ -1288,7 +1288,7 @@
   {
     "name": "@octokit/rest",
     "repo": "https://github.com/octokit/rest.js",
-    "description": "GitHub REST API client for Node.js",
+    "description": "REST API client for Node.js",
     "dependents": 702,
     "disable": true
   },

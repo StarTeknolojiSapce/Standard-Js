@@ -57,7 +57,7 @@ if (!argv.disabled) {
   })
 }
 
-test('test github repos that use `standard`', t => {
+test('test repos that use `standard`', t => {
   t.plan(pkgs.length)
 
   fs.mkdirSync(TMP, { recursive: true })

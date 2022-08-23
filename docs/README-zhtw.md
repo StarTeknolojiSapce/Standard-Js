@@ -214,7 +214,7 @@ JavaScript Standard Style 的美來自於它的簡單，沒有人想要在每個
 
 除了公司之外，非常多的社群也在套件中採用了 `standard` [因為太多了](https://raw.githubusercontent.com/standard/standard-packages/master/all.json) 無法在此一一列舉。
 
-`standard` 也是 GitHub 的
+`standard` 也是 的
 [Clean Code Linter](https://github.com/showcases/clean-code-linters) 中，最多人給星的專案。
 
 ## 有文字編輯器的外掛嗎？
